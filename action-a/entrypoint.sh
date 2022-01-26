@@ -1,0 +1,3 @@
+#!/bin/sh -1
+
+sh -c"ECHO HELLO WORLD MY NAME IS $ıNPUT_MY_NAME"
